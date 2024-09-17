@@ -66,4 +66,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan, silakan hubungi [nama Anda](mailto:email@example.com).
+Jika Anda memiliki pertanyaan, silakan hubungi [Mhd Abdul Rohman](mhd.abdulrohman70@gmail.com).
